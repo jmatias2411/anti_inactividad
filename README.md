@@ -10,7 +10,7 @@ Es ideal para situaciones en las que se necesita mantener la computadora activa 
 
 ## Requisitos
 
-- Python 3.x
+- Python 3
 - Biblioteca `pyautogui`
 
 ## Instalación
@@ -49,6 +49,3 @@ Este programa está diseñado para uso personal y no se recomienda su uso en ent
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
-```
-
-Con este `README.md`, cualquier usuario que descargue el script podrá entender cómo instalar y usar el programa, además de saber cómo configurarlo y personalizar el intervalo y el rango de movimiento.
